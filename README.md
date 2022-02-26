@@ -8,6 +8,5 @@
 
 ## UX Journal
 
-[1. Toyota C-Max Hybrid Dashboard](https://usabilityengineering.github.io/ux-portfolio-tmasuda14/j01/)
+[1. Toyota C-Max Hybrid Dashboard](j01/)
 
-[Read about my experience with Bash](j01/)
