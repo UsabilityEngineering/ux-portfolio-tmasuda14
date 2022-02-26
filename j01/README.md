@@ -7,8 +7,8 @@ By Tai Masuda
 
 ## Dashboard
 
-![C-Max Dashboard](/assets/dash.jpeg)
-[[/assets/dash.jpeg]]
+![C-Max Dashboard](https://github.com/UsabilityEngineering/ux-portfolio-tmasuda14/blob/master/assets/dash.jpeg)
+
 
 
 The dashboard presents two gauges to the left of the speedometer. The left-most gauge
