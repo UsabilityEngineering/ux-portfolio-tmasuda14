@@ -8,6 +8,7 @@ By Tai Masuda
 ## Dashboard
 
 ![C-Max Dashboard](/assets/dash.jpeg)
+[[/assets/dash.jpeg]]
 
 
 The dashboard presents two gauges to the left of the speedometer. The left-most gauge
