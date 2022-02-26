@@ -21,6 +21,8 @@ what each piece means, a user is required to check the owner's manual or search 
 Many symbols are not initially **learnable** because of the vagueness of their representations. What does
 a green outline of a car mean? Why are there arrows going in both directions? 
 
+### Efficency Leaves
+
 ![Efficency Leaves](/assets/efficency_leaves.jpeg)
 
 The efficency leaves display acts as a visual cue which shows an increaing amout of leaves as "efficency" improves.
