@@ -1,6 +1,6 @@
 # Toyota C-Max Hybrid Dashboard and Center Console - A User Experience
 
-![picture](/assets/dash.jpeg)
+![C-Max Dashboard](/assets/dash.jpeg)
 
 
 ## Dashboard
@@ -14,14 +14,15 @@ what each piece means, a user is required to check the owner's manual or search 
 Many symbols are not initially LEARNABLE because of the vagueness of their representations (what does
 a green outline of a car mean?). 
 
-[leaves]
+![Efficency Leaves](/assets/efficency_leaves.jpeg)
 
 The efficency leaves display acts as a visual cue which shows an increaing amout of leaves as "efficency" improves.
 What is not clear is whether this efficency is for the battery, gas, a combination, or something else entirely. 
 By being so vague, ironically the Efficency Leaves feature is inefficent at displaying clear information.
 
 
-[picture]
+
+![Center Console](/assets/center_console.jpeg)
 
 ## Console
 
