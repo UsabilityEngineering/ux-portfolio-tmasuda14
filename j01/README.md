@@ -3,7 +3,7 @@
 By Tai Masuda
 02/25/2022
 
-[Back to Home](https://github.com/UsabilityEngineering/ux-portfolio-tmasuda14/blob/master/README.md)
+[Back to Home](https://usabilityengineering.github.io/ux-portfolio-tmasuda14/)
 
 ## Dashboard
 
