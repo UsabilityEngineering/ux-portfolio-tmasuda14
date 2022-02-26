@@ -1,9 +1,9 @@
 # Toyota C-Max Hybrid Dashboard and Center Console - A User Experience
 
+## Dashboard
+
 ![C-Max Dashboard](/assets/dash.jpeg)
 
-
-## Dashboard
 
 The dashboard presents two gauges to the left of the speedometer. The left-most gauge
 denotes the battery level, while the right-most denotes the gas level. The gas gauge
@@ -20,11 +20,10 @@ The efficency leaves display acts as a visual cue which shows an increaing amout
 What is not clear is whether this efficency is for the battery, gas, a combination, or something else entirely. 
 By being so vague, ironically the Efficency Leaves feature is inefficent at displaying clear information.
 
-
+## Console
 
 ![Center Console](/assets/center_console.jpeg)
 
-## Console
 
 The center console has a large screen to display media, but the available options take up 25% of
 the screen real estate, which when unused, reduces the visibility of your focus. To connect
