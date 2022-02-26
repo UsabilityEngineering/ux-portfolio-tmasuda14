@@ -13,7 +13,9 @@ By Tai Masuda
 The dashboard presents two gauges to the left of the speedometer. The left-most gauge
 denotes the battery level, while the right-most denotes the gas level. The gas gauge
 lowers as expected, but the battery gauge fills up and depletes in a seemingly randomized
-way. The displays are mostly **efficient** at providing at-a-glance data during vehicle operation,
+way. After breaking to a complete stop, you are shown a "break score" which without research is
+confusing and seems to mean nothing. The lack of clarity reduces **usability** and **satisfaction**.
+The displays are mostly **efficient** at providing at-a-glance data during vehicle operation,
 but certain symbols and gauges are misleading or confusing. In order to fully understand
 what each piece means, a user is required to check the owner's manual or search the internet.
 Many symbols are not initially **learnable** because of the vagueness of their representations. What does
