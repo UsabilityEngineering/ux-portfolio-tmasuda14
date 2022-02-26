@@ -1,6 +1,6 @@
-# Toyota C-Max Hybrid Dashboard and Center Console - A UX Review
+# Toyota C-Max Hybrid Dashboard and Center Console - A User Experience
 
-[picture]
+![picture](/assets/dash.jpeg)
 
 
 ## Dashboard
