@@ -1,4 +1,4 @@
-# Toyota C-Max Hybrid Dashboard and Center Console - A User Experience
+# Ford C-Max Hybrid Dashboard and Center Console - A User Experience
 
 By Tai Masuda
 02/25/2022
@@ -7,7 +7,7 @@ By Tai Masuda
 
 ## Dashboard
 
-![C-Max Dashboard](https://github.com/UsabilityEngineering/ux-portfolio-tmasuda14/blob/master/assets/dash.jpeg)
+![C-Max Dashboard](../assets/dash.jpeg)
 
 
 
@@ -24,7 +24,7 @@ a green outline of a car mean? Why are there arrows going in both directions?
 
 ### Efficency Leaves
 
-![Efficency Leaves](https://github.com/UsabilityEngineering/ux-portfolio-tmasuda14/blob/master/assets/efficency_leaves.jpeg)
+![Efficency Leaves](../assets/efficency_leaves.jpeg)
 
 The efficency leaves display acts as a visual cue which shows an increaing amout of leaves as "efficency" improves.
 What is not clear is whether this efficency is for the battery, gas, a combination, or something else entirely. 
@@ -34,7 +34,7 @@ By being so vague, ironically the Efficency Leaves feature is **inefficient** at
 
 ## Console
 
-![Center Console](https://github.com/UsabilityEngineering/ux-portfolio-tmasuda14/blob/master/assets/center_console.jpeg)
+![Center Console](../assets/center_console.jpeg)
 
 
 The center console has a large screen to display media, but the available options take up 25% of
