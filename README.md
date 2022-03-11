@@ -8,5 +8,5 @@
 
 ## UX Journal
 
-[1. Toyota C-Max Hybrid Dashboard](j01/)
+[1. Ford C-Max Hybrid Dashboard](j01/)
 
