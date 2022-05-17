@@ -5,6 +5,7 @@
 
 ## UX Team Project
 
+[Looking For Game](https://usabilityengineering.github.io/Looking-For-Game/)
 
 ## UX Journal
 
