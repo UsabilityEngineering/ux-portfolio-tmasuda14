@@ -9,5 +9,6 @@
 ## UX Journal
 
 [1. Ford C-Max Hybrid Dashboard](j01/)
+
 [3. Samsung Washer and Dryer](j03/)
 
